@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-infobip",
+  "name": "@oneacrefund/n8n-nodes-infobip",
   "version": "0.1.0",
   "description": "n8n Node to send SMS via Infobip",
   "keywords": [
