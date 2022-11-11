@@ -2,6 +2,11 @@
 
 This is an n8n community node. It lets you use _Infobip_ in your n8n workflows.
 
+![logo](./docs/infobip.svg)
+
+[![npm version](https://badge.fury.io/js/@oneacrefund%2Fn8n-nodes-infobip.svg)](https://badge.fury.io/js/@oneacrefund%2Fn8n-nodes-infobip)
+
+
 [Infobip](https://www.infobip.com/) is a leading messaging and communications platform, providing a cloud solutions for various messaging needs, including bots and transactional APIs for voice, email, SMS/MMS...
 
 ![Screenshot](docs/screenshot.png)
